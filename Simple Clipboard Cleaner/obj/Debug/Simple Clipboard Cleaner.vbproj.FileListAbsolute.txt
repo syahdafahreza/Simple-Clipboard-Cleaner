@@ -1,0 +1,10 @@
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\bin\Debug\Simple Clipboard Cleaner.exe
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\bin\Debug\Simple Clipboard Cleaner.pdb
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\bin\Debug\Simple Clipboard Cleaner.xml
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple Clipboard Cleaner.vbprojResolveAssemblyReference.cache
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple_Clipboard_Cleaner.Form1.resources
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple_Clipboard_Cleaner.Resources.resources
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple Clipboard Cleaner.vbproj.GenerateResource.Cache
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple Clipboard Cleaner.exe
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple Clipboard Cleaner.xml
+C:\Users\Umarkov\Documents\Visual Studio 2015\Projects\Simple Clipboard Cleaner\Simple Clipboard Cleaner\obj\Debug\Simple Clipboard Cleaner.pdb
